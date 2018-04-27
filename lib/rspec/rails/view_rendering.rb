@@ -64,6 +64,7 @@ module RSpec
         attr_reader :original_path_set
 
         def initialize(original_path_set)
+          super()
           @original_path_set = original_path_set
         end
 
@@ -81,6 +82,9 @@ module RSpec
             )
           end
         end
+
+        alias_method :find_templates, :find_all
+
       end
 
       class EmptyTemplateHandler
