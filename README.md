@@ -1,9 +1,11 @@
-# rspec-rails [![Build Status](https://secure.travis-ci.org/rspec/rspec-rails.png?branch=master)](http://travis-ci.org/rspec/rspec-rails) [![Code Climate](https://codeclimate.com/github/rspec/rspec-rails.png)](https://codeclimate.com/github/rspec/rspec-rails)
+# rspec-rails 2.14 for Rails 3.2 LTS
 
-**rspec-rails** is a testing framework for Rails 3.x and 4.x.
+This is a maintenance fork of `rspec-rails` 2.14 to be used with [Rails 3.2 LTS](https://railslts.com).
 
-Use **[rspec-rails 1.x](http://github.com/dchelimsky/rspec-rails)** for Rails
-2.x.
+There is also a [maintenance fork of `rspec-rails` 1.3](https://github.com/makandra/rspec-rails/tree/1-3-lts) to be used with [Rails 3.2 LTS](https://railslts.com).
+
+If you are looking for modern versions of this gem, see <http://github.com/rspec/rspec-rails>.
+
 
 ## Installation
 
